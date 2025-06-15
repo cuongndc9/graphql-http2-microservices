@@ -4,5 +4,5 @@
 
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "It is during our darkest moments that we must focus to see the light." - Aristotle
+> "A person who never made a mistake never tried anything new." - Albert Einstein
 <!-- INSPIRATIONAL_QUOTE_END -->
