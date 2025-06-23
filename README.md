@@ -3,5 +3,5 @@
 microservices + graphql + http2 (grpc)
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "We may encounter many defeats but we must not be defeated." - Maya Angelou
+> "A person who never made a mistake never tried anything new." - Albert Einstein
 <!-- INSPIRATIONAL_QUOTE_END -->
